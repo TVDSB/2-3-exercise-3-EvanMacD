@@ -10,8 +10,8 @@ def main():
     elif number %3==0:
         print("fizz")
 
-    else:
-        print("You have selected nothing congrats!!")
+  
+        
     
 
 if __name__ =='__main__':
