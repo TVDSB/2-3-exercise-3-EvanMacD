@@ -9,10 +9,5 @@ def main():
 
     elif number %3==0:
         print("fizz")
-
-  
-        
-    
-
 if __name__ =='__main__':
     main()
