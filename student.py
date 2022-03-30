@@ -11,6 +11,6 @@ def main():
       print("fizz")
         
     else:
-      print("You have entered a number that isn't divisble by 3 or 5")
+      print(number)
 if __name__ =='__main__':
     main()
